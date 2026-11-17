@@ -477,6 +477,6 @@ with tab7:
 
 st.markdown("---")
 st.caption(
-    "Proyek Analisis Data — Alif Setyo Wisnuaji | Matematika S1, "
+    "Program Komputer — Alif Setyo Wisnuaji | Matematika S1, "
     "Fakultas Sains dan Matematika, Universitas Diponegoro"
 )
