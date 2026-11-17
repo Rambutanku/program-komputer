@@ -4,7 +4,7 @@ Proyek ini dilakukan untuk program Kekayaan Intelektual. Proyek ini bertujuan un
 
 ## Link Live Dashboard
 Aplikasi dashboard interaktif dapat diakses melalui tautan berikut:
-- **Streamlit App:** https://proyek-komputer-hrzjtcebbqbffljmadpxgq.streamlit.app/
+- **Streamlit App:** https://program-komputer-kt83sqbsjgbngwiuzjeqru.streamlit.app/
 
 ---
 
